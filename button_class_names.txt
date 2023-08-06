@@ -1,0 +1,96 @@
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m 
+yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default 
+style-scope ytd-searchbox
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default 
+style-scope yt-icon-button
+style-scope yt-icon-button
+ytp-playlist-menu-button ytp-button
+ytp-button ytp-cards-button
+ytp-button ytp-overflow-button
+ytp-watch-later-button ytp-button
+ytp-button ytp-share-button ytp-share-button-visible
+ytp-button ytp-copylink-button
+ytp-unmute ytp-popup ytp-button ytp-unmute-animated ytp-unmute-shrink
+ytp-large-play-button ytp-button
+ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls ytp-featured-product
+ytp-suggested-action-badge-dismiss-button-icon ytp-button
+ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls ytp-suggested-action-badge-expanded
+ytp-suggested-action-badge-dismiss-button-icon ytp-button
+ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls
+ytp-suggested-action-badge-dismiss-button-icon ytp-button
+ytp-autonav-endscreen-upnext-button ytp-autonav-endscreen-upnext-cancel-button ytp-autonav-endscreen-upnext-button-rounded
+ytp-button ytp-endscreen-previous
+ytp-button ytp-endscreen-next
+ytp-button ytp-mdx-privacy-popup-cancel
+ytp-button ytp-mdx-privacy-popup-confirm
+branding-img-container ytp-button
+ytp-multicam-menu-close ytp-button
+ytp-playlist-menu-close ytp-button
+ytp-share-panel-close ytp-button
+ytp-overflow-panel-close ytp-button
+ytp-play-button ytp-button
+ytp-mute-button ytp-button
+ytp-live-badge ytp-button
+ytp-chapter-title ytp-button ytp-chapter-container-disabled
+ytp-chapter-title ytp-button ytp-chapter-container-disabled
+ytp-fullerscreen-edu-button ytp-button
+ytp-button
+ytp-subtitles-button ytp-button
+ytp-button ytp-settings-button
+ytp-multicam-button ytp-button
+ytp-miniplayer-button ytp-button
+ytp-pip-button ytp-button
+ytp-size-button ytp-button
+ytp-remote-button ytp-button
+ytp-fullscreen-button ytp-button
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default 
+yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default 
+yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default 
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default 
+yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading-trailing 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading 
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading 
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button 
+yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m 
+yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading-trailing 
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+style-scope yt-icon-button
+yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m 
